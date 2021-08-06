@@ -8,7 +8,6 @@
 
 ![Percentage distribution of BMI by Sex](https://github.com/twubghub/Tiru_portfolio/blob/main/images/prot-graph.png)
 
-![ANOVA Test Summary Table](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Anova-port.PNG)
 
 
 [PROJECT 2: EXPLORATORY DATA ANALYSIS AND HYPOTHESIS TESTING WITH TWO DATASETS](https://github.com/twubghub/All_projects/blob/main/Project%202_%20EDA_hypotesis_twodataset.ipynb)
