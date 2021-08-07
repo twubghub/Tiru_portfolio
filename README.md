@@ -14,7 +14,7 @@
 [PROJECT 2: EXPLORATORY DATA ANALYSIS AND HYPOTHESIS TESTING WITH TWO DATASETS](https://github.com/twubghub/All_projects/blob/main/Project%202_%20EDA_hypotesis_twodataset.ipynb)
 
 
- The project focused on hypothesis analysis, the relationship between variables, and identified if a specific outcome significantly differs from group to group.
+ The project is a group project which focused on hypothesis analysis, the relationship between variables, and identified if a specific outcome significantly differs from group to group.
 
 
 * Analysis of dataset
@@ -29,7 +29,7 @@
 ![Chi-Square Test summery](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Chi-Square_port.PNG)
 
 [PROJECT 3: COMPUTER VISION PROJECT](https://github.com/twubghub/All_projects/blob/main/Project%203_Computer_Vision.ipynb)
- This project is manily focused on classification of 10 animal images using convolutional neaural network on spark enviroment and hadoop distribution file system (HDFS) used 
+ This project is a group project manily focused on classification of 10 animal images using convolutional neaural network on spark enviroment and hadoop distribution file system (HDFS) used 
  for storage purpose.
  * Prepared the data and stored it to local HDFS
  *  Accesed the data on spark programing and rearrange the data to fit into the model
