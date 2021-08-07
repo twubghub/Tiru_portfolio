@@ -29,11 +29,10 @@
 ![Chi-Square Test summery](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Chi-Square_port.PNG)
 
 [PROJECT 3: COMPUTER VISION PROJECT](https://github.com/twubghub/All_projects/blob/main/Project%203_Computer_Vision.ipynb)
- This project is a group project manily focused on classification of 10 animal images using convolutional neaural network on spark enviroment and hadoop distribution file system (HDFS) used 
- for storage purpose.
- * Prepared the data and stored it to local HDFS
- *  Accesed the data on spark programing and rearrange the data to fit into the model
- *  Trained many convolutional neaural network (CNN) models by changing their parameters to get better performance accuracy.
+ This project is a group project manily focused on big data analysis to classify 10 classes of animal images using convolutional neaural network on spark enviroment and hadoop distribution file system (HDFS) used for storage purpose.
+ * Downloaded the data from kaggle and Prepared it to store it to local HDFS
+ *  Accesed the data on spark programing and rearrange it to fit into the models
+ *  Trained many convolutional neaural network (CNN) models by changing their parameters to get a better performance accuracy.
  *  Visualized and concluded the results that have gotten from different models.
  
  ![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/heatmap_port.png)
