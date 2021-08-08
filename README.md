@@ -46,7 +46,7 @@ This project is a group project manily focused on big data analysis to classify 
 
 
 [PROJECT 4: CLASSIFICATION PROJECT](https://github.com/twubghub/All_projects/blob/main/Project4_DryBeanData.ipynb)
-This project is about classification that provides a method to obtain uniform seed varieties by using machine learning algorithms to classify them with better accuracy than the existing one which was 93.3%.
+This project is about classification that provides a method to obtain uniform dry beans seed varieties by using machine learning algorithms to classify them with better accuracy than the existing one which was 93.3%.
 
 ![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/DryBeans_image.png)
 * Implemented EDA such as dsplaying the data, cleaning the data by removing the duplicated data, avoiding outliers using interquartile method then Balancing classes using SMOTE method.
