@@ -49,7 +49,7 @@ This project is a group project manily focused on big data analysis to classify 
 This project is about classification that provides a method to obtain uniform dry beans seed varieties by using machine learning algorithms to classify them with better accuracy than the existing one which was 93.3%.
 
 ![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/DryBeans_image.png)
-* Implemented EDA such as dsplaying the data, cleaning the data by removing the duplicated data, avoiding outliers using interquartile method then Balancing classes using SMOTE method.
+* Implemented EDA such as dsplaying the data, cleaning the data by removing the duplicated data, avoiding outliers using interquartile range method then Balancing classes using SMOTE method.
 * Prepared the data and fitted models. we trained many models and apply various techniques to get a better accuracy perforamnce.
 * Among the models we used Bagging, SVM nonlinear kernel and keras TensorFlow models provided the highest accuracy more than 95%. 
 * Keras provided the highest accuracy for unseen(test) data with 95%.
