@@ -42,7 +42,7 @@ This project is a group project manily focused on big data analysis to classify 
  
  
  ![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Acccuracy_Curve_Port.png)
- ![image](https://user-images.githubusercontent.com/71778244/128646958-5090d14e-23af-4b58-948c-2d7f12bfab47.png)
+
 
 
 [PROJECT 4: CLASSIFICATION PROJECT](https://github.com/twubghub/All_projects/blob/main/Project4_DryBeanData.ipynb)
