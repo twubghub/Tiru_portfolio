@@ -30,8 +30,8 @@
 
 [PROJECT 3: COMPUTER VISION PROJECT](https://github.com/twubghub/All_projects/blob/main/Project%203_Computer_Vision.ipynb)
  This project is a group project manily focused on big data analysis to classify 10 classes of animal images using convolutional neaural network on spark enviroment and hadoop distribution file system (HDFS) used for storage purpose.
- * Downloaded the data from kaggle and Prepared it to store it to local HDFS
- *  Accesed the data on spark programing and rearrange it to fit into the models
+ * Downloaded the data from kaggle and Prepared it to store it to local HDFS.
+ *  Analyzed the data using spark programing and rearrange the data to fit it into the models.
  *  Trained many convolutional neaural network (CNN) models by changing their parameters to get a better performance accuracy.
  *  Visualized and concluded the results that have gotten from different models.
  
@@ -39,6 +39,16 @@
  
  
  ![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Acccuracy_Curve_Port.png)
+ ![image](https://user-images.githubusercontent.com/71778244/128646958-5090d14e-23af-4b58-948c-2d7f12bfab47.png)
 
 
+[PROJECT 4: CLASSIFICATION PROJECT](https://github.com/twubghub/All_projects/blob/main/Project4_DryBeanData.ipynb)
+This project is about classification that provides a method to obtain uniform seed varieties by using machine learning algorithms to classify them with better accuracy then the existing one which was 93.3%.
+![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/DryBeans_image.png)
+* Implemented EDA such as dsplaying the data, cleaning the data by removing the duplicated data, avoid outliers using interquartile method then Balance classes using SMOTE method.
+* Prepared the data and fitted models. we trained many models and apply various techniques to get a better accuracy perforamnce.
+* Among the models we used Bagging, SVM nonlinear kernel and keras TensorFlow models provided the highest accuracy more than 95%. 
+* Keras provided the highest accuracy for unseen(test) data with 95%.
+![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/SVM_Classifier_Port.png)
 
+![](https://github.com/twubghub/Tiru_portfolio/commit/b61178c523d9e047e4430e6737ce874ca13540f7)
