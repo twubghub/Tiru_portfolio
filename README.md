@@ -2,9 +2,9 @@
 
 [PROJECT 1: EXPLORATORY DATA ANALYSIS AND HYPOTESIS TESTING OF SURVEY DATA](https://github.com/twubghub/All_projects/blob/main/project_2_Notebook.ipynb)
 
-*Applied EDA for 2019 NHIS data; displaying, cleaning and visualising the data.
-*Implemented hypotesis testing such as, T-test, Z-test, Chi-Square, Anova and so on to test the relationship of different variables and their significant impact into one   another.
-*Concluded the outcomes on different groups based on those various satastical tests.
+* Applied EDA for 2019 NHIS data; displaying, cleaning and visualising the data.
+* Implemented hypotesis testing such as, T-test, Z-test, Chi-Square, Anova and so on to test the relationship of different variables and their significant impact into one   another.
+* Concluded the outcomes on different groups based on those various satastical tests.
 
 ![Percentage distribution of BMI by Sex](https://github.com/twubghub/Tiru_portfolio/blob/main/images/prot-graph.png)
 ![BMI vs Cholostrol](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Cholostrol_port.png)
