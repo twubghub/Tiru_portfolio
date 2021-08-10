@@ -2,9 +2,9 @@
 
 [PROJECT 1: EXPLORATORY DATA ANALYSIS AND HYPOTESIS TESTING OF SURVEY DATA](https://github.com/twubghub/All_projects/blob/main/project_2_Notebook.ipynb)
 
-- Apply EDA for 2019 NHIS data; displaying, cleaning and visualising the data.
-- Implement hypotesis testing such as, T-test, Z-test, Chi-Square, Anova and so on to test the relationship of different variables and their significant impact into one   another.
-- The outcomes and conclusions on different groups based on these various satastical tests.
+*Applied EDA for 2019 NHIS data; displaying, cleaning and visualising the data.
+*Implemented hypotesis testing such as, T-test, Z-test, Chi-Square, Anova and so on to test the relationship of different variables and their significant impact into one   another.
+*Concluded the outcomes on different groups based on those various satastical tests.
 
 ![Percentage distribution of BMI by Sex](https://github.com/twubghub/Tiru_portfolio/blob/main/images/prot-graph.png)
 ![BMI vs Cholostrol](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Cholostrol_port.png)
@@ -17,13 +17,13 @@
  The project is a group project which focused on hypothesis analysis, the relationship between variables, and identified if a specific outcome significantly differs from group to group.
 
 
-* Analysis of dataset
+* Analyzed the dataset
 
-* Visualization
+* Visualized the data
 
-* Hypothesis/assumptions for specific questions related to both datasets
+* Hypothesised the specific questions related to both datasets
 
-* Test the hypothesis and give a conclusion
+* Tested the hypothesis and gave a conclusion
 ![Distribution of BMI in USA and Latin America countries](https://github.com/twubghub/Tiru_portfolio/blob/main/images/BMI_port.png)
 
 ![Chi-Square Test summery](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Chi-Square_port.PNG)
@@ -51,8 +51,8 @@ This project is about classification that provides a method to obtain uniform dr
 ![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/DryBeans_image.png)
 * Implemented EDA such as dsplaying the data, cleaning the data by removing the duplicated data, avoiding outliers using interquartile range method then Balancing classes using SMOTE method.
 * Prepared the data and fitted models. we trained many models and apply various techniques to get a better accuracy perforamnce.
-* Among the models we used Bagging, SVM nonlinear kernel and keras TensorFlow models provided the highest accuracy more than 95%. 
-* Keras provided the highest accuracy for unseen(test) data with 95%.
+* Evaluated  models, so among the models we used Bagging, SVM nonlinear kernel and keras TensorFlow models provided the highest accuracy more than 95%. 
+* Concluded the result. Keras provided the highest accuracy for unseen(test) data with 95%.
 
 ![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/SVM_Classifier_Port.png)
 
