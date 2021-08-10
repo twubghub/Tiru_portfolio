@@ -50,7 +50,7 @@ This project is about classification that provides a method to obtain uniform dr
 
 ![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/DryBeans_image.png)
 * Implemented EDA such as dsplaying the data, cleaning the data by removing the duplicated data, avoiding outliers using interquartile range method then Balancing classes using SMOTE method.
-* Prepared the data and fitted models. we trained many models and apply various techniques to get a better accuracy perforamnce.
+* Prepared the data and fitted models. we trained many models and applied various techniques to get a better accuracy perforamnce.
 * Evaluated  models, so among the models we used Bagging, SVM nonlinear kernel and keras TensorFlow models provided the highest accuracy more than 95%. 
 * Concluded the result. Keras provided the highest accuracy for unseen(test) data with 95%.
 
