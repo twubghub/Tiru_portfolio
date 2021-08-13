@@ -1,6 +1,6 @@
 # Tiru_portfolio
 
-[PROJECT 1: EXPLORATORY DATA ANALYSIS AND HYPOTESIS TESTING OF SURVEY DATA](https://github.com/twubghub/All_projects/blob/main/project_2_Notebook.ipynb)
+[PROJECT 1: EXPLORATORY DATA ANALYSIS AND HYPOTESIS TESTING OF SURVEY DATA](https://github.com/twubghub/All_projects/blob/main/project_1_Notebook.ipynb)
 
 * Applied EDA for 2019 NHIS data; displaying, cleaning and visualising the data.
 * Implemented hypotesis testing such as, T-test, Z-test, Chi-Square, Anova and so on to test the relationship of different variables and their significant impact into one   another.
