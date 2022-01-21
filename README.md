@@ -64,7 +64,7 @@ This project is about classification that provides a method to obtain uniform dr
 [PROJECT 5: STOCK PRICE PRIEDICTION BASED ON SENETIMENT ANALYSIS](https://github.com/twubghub/All_projects/blob/main/NLP_Project_model_Final%20(1).ipy)
 
 Natural Languge Processing (NLP) project on senetiment analysis for stock price prediction from social media data source such as Twitter and Reddit.
-![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/SVM_Classifier_Port.png)
+![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Reddit.png)
 ![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/SVM_Classifier_Port.png)
 ![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/SVM_Classifier_Port.png)
 
