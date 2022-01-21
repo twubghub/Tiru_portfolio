@@ -11,19 +11,21 @@
 
 
 
-[PROJECT 2: EXPLORATORY DATA ANALYSIS AND HYPOTHESIS TESTING WITH TWO DATASETS](https://github.com/twubghub/All_projects/blob/main/Project%202_%20EDA_hypotesis_twodataset.ipynb)
+[PROJECT 2: Computer Vision for Object Detection](https://github.com/twubghub/All_projects/blob/main/Deep_Learning_project_final.ipynb)
 
 
- The project is a group project which focused on hypothesis analysis, the relationship between variables, and identified if a specific outcome significantly differs from group to group.
+ The project is a group project which focused on building models to detect objects on roads for self driving cars. There are about 11 classes such as cars, truck, signals, pedstrians and others in this project then constructed object detection models to classify, locate and label those classes. 
 
 
 * Analyzed the dataset
 
 * Visualized the data
 
-* Hypothesised the specific questions related to both datasets
+* Built models
 
-* Tested the hypothesis and gave a conclusion
+* Test and Evaluated models
+
+* Used NMS to avoide overlapped bounding boxes
 ![Distribution of BMI in USA and Latin America countries](https://github.com/twubghub/Tiru_portfolio/blob/main/images/BMI_port.png)
 
 ![Chi-Square Test summery](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Chi-Square_port.PNG)
