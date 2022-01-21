@@ -29,7 +29,7 @@
 ![Object detection model 1's output](https://github.com/twubghub/Tiru_portfolio/blob/main/images/object_detection.png)
 
 ![Object detection model 2's output](https://github.com/twubghub/Tiru_portfolio/blob/main/images/object_detecion2.png)
-![Object detection model 3's output](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Chi-Square_port.PNG)
+![Object detection model 3's output](https://github.com/twubghub/Tiru_portfolio/blob/main/images/object_detection3.png)
 
 [PROJECT 3: COMPUTER VISION PROJECT](https://github.com/twubghub/All_projects/blob/main/Project%203_Computer_Vision.ipynb)
 
