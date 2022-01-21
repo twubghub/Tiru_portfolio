@@ -60,3 +60,5 @@ This project is about classification that provides a method to obtain uniform dr
 ![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/SVM_Classifier_Port.png)
 
 ![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Training%20and%20validation%20curve_Port.png)
+
+[PROJECT 5: STOCK PRICE PRIEDICTION BASED ON SENETIMENT ANALYSIS](https://github.com/twubghub/All_projects/blob/main/Project4_DryBeanData.ipynb)
