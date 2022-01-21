@@ -26,7 +26,7 @@
 * Test and Evaluated models
 
 * Used NMS to avoide overlapped bounding boxes
-![Object detection model 1's output](https://github.com/twubghub/Tiru_portfolio/blob/main/images/BMI_port.png)
+![Object detection model 1's output](https://github.com/twubghub/Tiru_portfolio/blob/main/images/object_detection.png)
 
 ![Object detection model 2's output](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Chi-Square_port.PNG)
 ![Object detection model 3's output](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Chi-Square_port.PNG)
