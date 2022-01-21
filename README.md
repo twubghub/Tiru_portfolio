@@ -65,6 +65,5 @@ This project is about classification that provides a method to obtain uniform dr
 
 Natural Languge Processing (NLP) project on senetiment analysis for stock price prediction from social media data source such as Twitter and Reddit.
 ![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Reddit.png)
-![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/SVM_Classifier_Port.png)
-![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/SVM_Classifier_Port.png)
+![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Apple_stock.png)
 
