@@ -67,7 +67,7 @@ Natural Languge Processing (NLP) project on senetiment analysis for stock price 
 * Collected public opinion text data from social medias(Twitter and Reddit) and the stock price from wallstreet.
 * Applied EDA, 
 * Applied NLP to get numeric values of sentiments and see the trend of stock price whenever change in sentiments by applying Random Forest Classifier model.
-* Built Random Forest Regressor to predict stock price based on public opinion.
+* Built Random Forest Regressor to predict stocks' prices based on public opinion.
 *  Evaluated models
 *  Visualized results
 
