@@ -63,7 +63,14 @@ This project is about classification that provides a method to obtain uniform dr
 
 [PROJECT 5: STOCK PRICE PRIEDICTION BASED ON SENETIMENT ANALYSIS](https://github.com/twubghub/All_projects/blob/main/NLP_Project_model_Final%20(1).ipy)
 
-Natural Languge Processing (NLP) project on senetiment analysis for stock price prediction from social media data source such as Twitter and Reddit.
+Natural Languge Processing (NLP) project on senetiment analysis for stock price prediction from social media data source such as Twitter, Reddit and Wallstreet.
+* Collected public opinion text data from social medias(Twitter and Reddit) and the stock price from wallstreet.
+* Applied EDA, 
+* Applied NLP to get numeric values of sentiments and see the trend of stock price whenever change in sentiments by applying Random Forest Classifier model.
+* Built Random Forest Regressor to predict stock price based on public opinion.
+*  Evaluated models
+*  Visualized results
+
 ![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Reddit.png)
 ![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Apple_stock.png)
 
