@@ -12,10 +12,12 @@ This Capstone project is a group of two Wale-Agboola and me. It is mainly focuse
       *	- Apllied LSTM model and found overfitted to most of the clusters, however, it performed very well in forecasting future sales.
       *	- Built stacking model to ensamble the performance of base-models(ExtraTreesRegressor,AdaBoostRegressor,RandomForestRegressor,LinearSVR) and enable to run the same boosted model against all clusters.
 
-![WordCloud](https://github.com/twubghub/Tiru_portfolio/blob/main/images/wordcloud.png) shows the clean tokens after applying preprocessing function.
-
-![BMI vs Cholostrol](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Cholostrol_port.png)
-
+![WordCloud](https://github.com/twubghub/Tiru_portfolio/blob/main/images/wordcloud.png) 
+![PyLDAviz](https://github.com/twubghub/Tiru_portfolio/blob/main/images/pyldavis.png)
+![Total and Average Sales](https://github.com/twubghub/Tiru_portfolio/blob/main/images/sales.png)
+![Stacking Prediction](https://github.com/twubghub/Tiru_portfolio/blob/main/images/stacking.png)
+![LSTM Prediction](https://github.com/twubghub/Tiru_portfolio/blob/main/images/LSTM_prediction.png)
+![LSTM Forecasting](https://github.com/twubghub/Tiru_portfolio/blob/main/images/LSTM_forecasting.png)
 
 
 [PROJECT 2: Computer Vision for Object Detection](https://github.com/twubghub/All_projects/blob/main/Deep_Learning_project_final.ipynb)
