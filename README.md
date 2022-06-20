@@ -15,14 +15,17 @@ This Capstone project is a group of two Wale-Agboola and me. It is mainly focuse
 * WordCloud -  to show the clean tokens after the preprocessing function applied on the text data.
 ![WordCloud](https://github.com/twubghub/Tiru_portfolio/blob/main/images/wordcloud.png) 
 
-* LDA Visualization - shows the 10 bubles that represent topics(clusters)
+* LDA Visualization - shows the 10 bubles that represent topics(clusters) and the blue bare represents the overall frequency of each word in the corpus.
 ![PyLDAviz](https://github.com/twubghub/Tiru_portfolio/blob/main/images/pyldavis.png)
 ![Total and Average Sales](https://github.com/twubghub/Tiru_portfolio/blob/main/images/sales.png)
 * Stacking prediction graph
+*
 ![Stacking Prediction](https://github.com/twubghub/Tiru_portfolio/blob/main/images/stacking.png)
 * LSTM Prediction graph
+*
 ![LSTM Prediction](https://github.com/twubghub/Tiru_portfolio/blob/main/images/LSTM_prediction.png)
 * LSTM Forecasting graph
+
 ![LSTM Forecasting](https://github.com/twubghub/Tiru_portfolio/blob/main/images/LSTM_forecasting.png)
 
 
