@@ -1,10 +1,16 @@
-# Tiru_portfolio
+# Tiru_portfolio   
 
-[PROJECT 1: EXPLORATORY DATA ANALYSIS AND HYPOTESIS TESTING OF SURVEY DATA](https://github.com/twubghub/All_projects/blob/main/project_1_Notebook.ipynb)
+[PROJECT 1: Capstone Project: E-Commerce Data Analysis: Product Categorization And Sales Prediction]( https://github.com/Wale-Agboola/UMBC_CAPSTONE_2022/blob/main/Capstone_Product_Categorization_Sales_Prediction.ipynb)
 
-* Applied EDA for 2019 NHIS data; displaying, cleaning and visualising the data.
-* Implemented hypotesis testing such as, T-test, Z-test, Chi-Square, Anova and so on to test the relationship of different variables and their significant impact into one   another.
-* Concluded the outcomes on different groups based on those various satastical tests.
+This Capstone project is a group of two Wale-Agboola and me. It is mainly focused how the unsupervised machine learning algorithm (NLP topic modeling) appled in E-commerce data to categorize products based on their description.
+
+*	Wrangled 2 years of daily UK based online shopping retailer’s data.
+*	Applied various NLP techniques for preprocessing the text data.
+*	Built topic modeling (LDA model) to categorize (cluster) products by their description. 
+*	Performed time series data analysis and prepared the data before to construct the prediction model.
+*	Applied various prediction models and evaluated them for prediction and forecasting sales and demands for each product category.
+      *	Apllied LSTM model and found overfitted to most of the clusters, however, it performed very well in forecasting future sales.
+      *	Built stacking model to ensamble the performance of base-models(ExtraTreesRegressor,AdaBoostRegressor,RandomForestRegressor,LinearSVR) and enable to run the same boosted model against all clusters.
 
 ![Percentage distribution of BMI by Sex](https://github.com/twubghub/Tiru_portfolio/blob/main/images/prot-graph.png)
 ![BMI vs Cholostrol](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Cholostrol_port.png)
@@ -73,4 +79,13 @@ Natural Languge Processing (NLP) project on senetiment analysis for stock price 
 
 ![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Reddit.png)
 ![](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Apple_stock.png)
+
+[PROJECT 6: EXPLORATORY DATA ANALYSIS AND HYPOTESIS TESTING OF SURVEY DATA](https://github.com/twubghub/All_projects/blob/main/project_1_Notebook.ipynb)
+
+* Applied EDA for 2019 NHIS data; displaying, cleaning and visualising the data.
+* Implemented hypotesis testing such as, T-test, Z-test, Chi-Square, Anova and so on to test the relationship of different variables and their significant impact into one   another.
+* Concluded the outcomes on different groups based on those various satastical tests.
+
+![Percentage distribution of BMI by Sex](https://github.com/twubghub/Tiru_portfolio/blob/main/images/prot-graph.png)
+![BMI vs Cholostrol](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Cholostrol_port.png)
 
