@@ -7,7 +7,7 @@ This Capstone project is a group of two Wale-Agboola and me. It is mainly focuse
 *	- Wrangled 2 years of daily UK based online shopping retailer’s data.
 *	- Applied various NLP techniques for preprocessing the text data.
 *	- Built topic modeling (LDA model) to categorize (cluster) products by their description. 
-*	- Performed time series data analysis and prepared the data before to construct the prediction model.
+*	- Performed time series data analysis and prepared the data before constructing the prediction model.
 *	- Applied various prediction models and evaluated them for prediction and forecasting sales and demands for each product category.
       *	- Apllied LSTM model and found overfitted to most of the clusters, however, it performed very well in forecasting future sales.
       *	- Built stacking model to ensamble the performance of base-models (ExtraTreesRegressor,AdaBoostRegressor,RandomForestRegressor,LinearSVR) and enable to run the same boosted model against all clusters.
