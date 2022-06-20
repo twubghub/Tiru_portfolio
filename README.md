@@ -12,7 +12,8 @@ This Capstone project is a group of two Wale-Agboola and me. It is mainly focuse
       *	- Apllied LSTM model and found overfitted to most of the clusters, however, it performed very well in forecasting future sales.
       *	- Built stacking model to ensamble the performance of base-models(ExtraTreesRegressor,AdaBoostRegressor,RandomForestRegressor,LinearSVR) and enable to run the same boosted model against all clusters.
 
-![Percentage distribution of BMI by Sex](https://github.com/twubghub/Tiru_portfolio/blob/main/images/prot-graph.png)
+![WordCloud](https://github.com/twubghub/Tiru_portfolio/blob/main/images/wordcloud.png) shows the clean tokens after applying preprocessing function.
+
 ![BMI vs Cholostrol](https://github.com/twubghub/Tiru_portfolio/blob/main/images/Cholostrol_port.png)
 
 
