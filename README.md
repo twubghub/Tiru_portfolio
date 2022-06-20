@@ -11,7 +11,7 @@ This Capstone project is a group of two Wale-Agboola and me. It is mainly focuse
 *	- Applied various prediction models and evaluated them for prediction and forecasting sales and demands for each product category.
       *	- Apllied LSTM model and found overfitted to most of the clusters, however, it performed very well in forecasting future sales.
       *	- Built stacking model to ensamble the performance of base-models (ExtraTreesRegressor,AdaBoostRegressor,RandomForestRegressor,LinearSVR) and enable to run the same boosted model against all clusters.
-
+* WordCloud to show the clean tokens after the preprocessing function applied on the text data.
 ![WordCloud](https://github.com/twubghub/Tiru_portfolio/blob/main/images/wordcloud.png) 
 ![PyLDAviz](https://github.com/twubghub/Tiru_portfolio/blob/main/images/pyldavis.png)
 ![Total and Average Sales](https://github.com/twubghub/Tiru_portfolio/blob/main/images/sales.png)
